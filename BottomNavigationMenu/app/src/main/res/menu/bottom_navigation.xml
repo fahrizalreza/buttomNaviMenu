@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_main"
+        android:icon="@drawable/ic_android_24dp"
+        android:title="Main" />
+
+    <item
+        android:id="@+id/nav_favourite"
+        android:icon="@drawable/ic_favorite_24dp"
+        android:title="Favourite" />
+
+    <item
+        android:id="@+id/nav_mail"
+        android:icon="@drawable/ic_email_24dp"
+        android:title="Mail" />
+</menu>
